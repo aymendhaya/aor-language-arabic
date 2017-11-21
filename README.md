@@ -1,9 +1,9 @@
 # Arabic Translations for Admin-on-rest
 # Admin-on-rest ترجمة عربية لـــــ
 
-Arabic translations for [admin-on-rest](http://aymendhaya.com/aor-language-arabic.gif), the frontend framework for building admin applications on top of REST services.
+Arabic translations for [admin-on-rest](https://github.com/marmelab/admin-on-rest), the frontend framework for building admin applications on top of REST services.
 
-![admin-on-rest demo](http://static.marmelab.com/admin-on-rest.gif)
+![admin-on-rest demo](http://aymendhaya.com/aor-language-arabic.gif)
 
 ## Installation
 
