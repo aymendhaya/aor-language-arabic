@@ -18,7 +18,7 @@ module.exports = {
             false: 'لا',
         },
         page: {
-            list: '%{name}قائمة الـ',
+            list: '%{name}قائمة',
             edit: '%{name} #%{id} تعديل',
             show: '%{name} #%{id} إِظهار',
             create: '%{name} إِنشاء',
